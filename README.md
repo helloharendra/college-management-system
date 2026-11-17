@@ -10,6 +10,22 @@ Whether you operate a degree college, professional institute, university, or hig
 
 ---
 
+<!-- screenshots -->
+## Screenshots
+
+**Dashboard**
+
+![Dashboard](screenshots/1-dashboard.png)
+
+<table>
+  <tr>
+    <td align="center" width="50%"><b>Timetable</b><br><br><img src="screenshots/2-timetable.png" alt="Timetable"></td>
+    <td align="center" width="50%"><b>Results</b><br><br><img src="screenshots/3-results.png" alt="Results"></td>
+  </tr>
+</table>
+
+---
+
 ## What Is a College Management System?
 
 A College Management System is an integrated software solution designed to digitize and simplify the academic and administrative operations of a college or higher-education institution.
@@ -373,17 +389,3 @@ EduSuite represents our broader education technology offering for managing stude
 This repository serves as a service and project showcase for College Management System and College ERP development by Naya Prayog Technologies.
 
 It does not grant permission to redistribute, resell, or commercially reuse proprietary company materials or software. Project-specific source code, deliverables, and licensing terms are agreed separately.
-
-<!-- screenshots -->
-## Screenshots
-
-**Dashboard**
-
-![Dashboard](screenshots/1-dashboard.png)
-
-<table>
-  <tr>
-    <td align="center" width="50%"><b>Timetable</b><br><br><img src="screenshots/2-timetable.png" alt="Timetable"></td>
-    <td align="center" width="50%"><b>Results</b><br><br><img src="screenshots/3-results.png" alt="Results"></td>
-  </tr>
-</table>
